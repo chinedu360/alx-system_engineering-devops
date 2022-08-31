@@ -1,4 +1,2 @@
 #!/bin/bash
-
-PATH=$PATH:$HOME/bin
 echo $PATH
